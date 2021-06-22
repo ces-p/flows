@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{645A319D-9F8C-4B06-910B-12F2E819502D}|Default">
+  <MonoDevelop.Ide.ItemProperties.persistenciaAditiva FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Toma__de__Decisiones PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.procedureAndFunction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.logica PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.dataRegister FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Programacion PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="dataRegister/Program.cs">
+    <Files>
+      <File FileName="dataRegister/Program.cs" Line="8" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Programacion" expanded="True">
+            <Node name="bigArray" expanded="True" />
+            <Node name="cajero" expanded="True" />
+            <Node name="dataRegister" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="shortCircuitTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.shortCircuitTest FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.cajero PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.simulacionSistemaFacturacion PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.pacMan FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.uso__bucles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.parcial2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.bigArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Shapes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.tester PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
